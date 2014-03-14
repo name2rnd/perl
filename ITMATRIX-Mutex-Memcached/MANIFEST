@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/ITMATRIX-Mutex-Memcached.t
+lib/ITMATRIX/Mutex/Memcached.pm

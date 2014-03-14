@@ -1,0 +1,27 @@
+Changes
+ITMATRIX-AppDeployer-0.01.tar.gz
+lib/ITMATRIX/AppDeployer.pm
+lib/ITMATRIX/AppDeployer/Config.pm
+lib/ITMATRIX/AppDeployer/Core.pm
+lib/ITMATRIX/AppDeployer/Status.pm
+lib/ITMATRIX/AppDeployer/Test.pm
+lib/ITMATRIX/AppDeployer/VCS/Git.pm
+Makefile.PL
+MANIFEST
+perl5.8.9.core
+README
+t/deploy.conf
+t/ITMATRIX-AppDeployer-Config.t
+t/ITMATRIX-AppDeployer-Core.t
+t/ITMATRIX-AppDeployer-Status.t
+t/ITMATRIX-AppDeployer-Test.t
+t/ITMATRIX-AppDeployer-VCS-Git.t
+t/ITMATRIX-AppDeployer.t
+t/TEST_failed/Makefile.PL
+t/TEST_failed/MYMETA.json
+t/TEST_failed/MYMETA.yml
+t/TEST_failed/t/main.t
+t/TEST_success/Makefile.PL
+t/TEST_success/t/main.t
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)

@@ -1,0 +1,6 @@
+Revision history for Perl extension ITMATRIX::AppDeployer.
+
+0.01  Tue Aug 13 12:44:16 2013
+	- original version; created by h2xs 1.23 with options
+		--skip-exporter -b 5.8.9 -XAn ITMATRIX::AppDeployer
+

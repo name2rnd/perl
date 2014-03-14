@@ -1,0 +1,21 @@
+---
+abstract: 'ÐÐ°Ð·Ð¾Ð²ÑÐ¹ ÐºÐ»Ð°ÑÑ Ð´Ð»Ñ ÑÐ°Ð±Ð¾ÑÑ Ñ Ð¼ÑÑÐµÐºÑÐ¾Ð¼'
+author:
+  - 'User & <vzv@itmatrix.ru>'
+build_requires:
+  ExtUtils::MakeMaker: 0
+configure_requires:
+  ExtUtils::MakeMaker: 0
+dynamic_config: 0
+generated_by: 'ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.120921'
+license: unknown
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: ITMATRIX-Mutex
+no_index:
+  directory:
+    - t
+    - inc
+requires: {}
+version: 0.02

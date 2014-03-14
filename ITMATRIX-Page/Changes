@@ -1,0 +1,6 @@
+Revision history for Perl extension ITMATRIX::Page.
+
+0.01  Sun Jun  2 13:20:38 2013
+	- original version; created by h2xs 1.23 with options
+		-XAn ITMATRIX::Page
+

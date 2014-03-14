@@ -1,0 +1,6 @@
+Revision history for Perl extension ITMATRIX::Mutex.
+
+0.01  Wed Aug 15 13:35:36 2012
+	- original version; created by h2xs 1.23 with options
+		-XAn ITMATRIX::Mutex
+
